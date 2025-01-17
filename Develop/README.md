@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1pllEp6yBz4JPuyln2GBwCy5xrf39Od87/view
 
 ## License
 
-None needed
+None
 
 ## Contribute
 
